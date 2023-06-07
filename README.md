@@ -1,4 +1,4 @@
-[![DKrypts GitHub](https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=yeblu)](https://github.com/DKrypt1337/)
+[![DKrypts GitHub](https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=prussian)](https://github.com/DKrypt1337/)
 
 
 Main Languages I write in:
@@ -17,5 +17,8 @@ About me:
 * Software Engineer 🖥️
 * Cybersecurity Engineer
 * Dear imgui Framework Wizard 🧙
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKrypt1337)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DKrypt1337)](https://github.com/anuraghazra/github-readme-stats)
