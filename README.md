@@ -1,4 +1,4 @@
-[![DKrypts GitHub](https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/DKrypt1337/)
+[![DKrypts GitHub](https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=yeblu)](https://github.com/DKrypt1337/)
 
 
 Main Languages I write in:
