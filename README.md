@@ -11,7 +11,7 @@
   </div>
   <div style="width: 100%; display: flex; justify-content: center;">
     <a href="https://www.github.com/DKrypt1337/">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=DKrypt1337&layout=compact&theme=prussian" alt="Wakatime Stats" style="width: 50%;" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=DKrypt1337&layout=compact&theme=prussian&v=2" alt="Wakatime Stats" style="width: 50%;" />
     </a>
   </div>
 </div>
