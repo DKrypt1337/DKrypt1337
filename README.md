@@ -1,16 +1,19 @@
-### Hi there 👋
+[![DKrypts GitHub](https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/DKrypt1337/)
 
-<!--
-**DKrypt1337/DKrypt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Main Languages I write in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=grey)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=fe4e28)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+Frameworks I use:
+
+![imgui](https://img.shields.io/badge/-imgui-blue?style=for-the-badge&logoColor=white&link=https://github.com/ocornut/imgui&link=https://github.com/ocornut/imgui)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+About me:
+
+* Software Engineer 🖥️
+* Cybersecurity Engineer
+* Dear imgui Framework Wizard 🧙
