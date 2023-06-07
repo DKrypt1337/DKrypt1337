@@ -17,3 +17,5 @@ About me:
 * Software Engineer 🖥️
 * Cybersecurity Engineer
 * Dear imgui Framework Wizard 🧙
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DKrypt1337)](https://github.com/anuraghazra/github-readme-stats)
