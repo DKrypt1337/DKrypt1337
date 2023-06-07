@@ -1,5 +1,20 @@
-[![DKrypts GitHub](https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=prussian)](https://github.com/DKrypt1337/)
-
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="width: 50%; flex-grow: 1;">
+    <a href="https://github.com/DKrypt1337/">
+      <img src="https://github-readme-stats.vercel.app/api?username=DKrypt1337&count_private=true&show_icons=true&theme=prussian" alt="DKrypts GitHub" style="width: 50%;" />
+    </a>
+  </div>
+  <div style="width: 50%; flex-grow: 1;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKrypt1337&theme=prussian" alt="Top Langs" style="width: 50%;" />
+    </a>
+  </div>
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <a href="https://www.github.com/DKrypt1337/">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=DKrypt1337&layout=compact&theme=prussian" alt="Wakatime Stats" style="width: 50%;" />
+    </a>
+  </div>
+</div>
 
 Main Languages I write in:
 
@@ -17,8 +32,3 @@ About me:
 * Software Engineer 🖥️
 * Cybersecurity Engineer
 * Dear imgui Framework Wizard 🧙
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKrypt1337)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DKrypt1337)](https://github.com/anuraghazra/github-readme-stats)
